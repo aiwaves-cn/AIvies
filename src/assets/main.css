@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "Caudex";
+  src: url('./font/Caudex-Regular.ttf');
+}
+
+html, body {
+  font-family: "Caudex";
+}
+
+h1, h2, div {
+  font-family: "Caudex";
+}
+
+h4 {
+  font-family: "Caudex";
+}
+
+span {
+  font-family: "Caudex";
+}
+
+p {
+  font-family: "Caudex";
+}
+
+#text {
+  font-family: "Caudex";
+}
+
+.el-dropdown-menu__item {
+  /* border: none !important; */
+  border-radius: 0px !important;
+}
+.el-dropdown-menu__item:hover {
+  border-top: 1px solid !important;
+  border-bottom: 1px solid !important;
+}

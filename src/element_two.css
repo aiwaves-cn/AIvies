@@ -1,0 +1,29 @@
+.el-dropdown-link {
+    color: #000 !important;
+    margin-left: 15px !important;
+}
+
+.el-dropdown-menu .el-popper {
+    background: #000;
+}
+
+.el-dropdown-menu {
+    background: #fff !important;
+    border: none !important;
+    color: #000 !important;
+}
+
+.el-dropdown-menu__item {
+    color: #A0A0A0 !important;
+    padding: 10px !important;
+}
+
+.el-dropdown-menu__item {
+    padding: 10px !important;
+}
+
+.el-dropdown-menu__item:hover {
+    background: #fff !important;
+    border-bottom: solid 1px #000;
+
+}

@@ -1,0 +1,54 @@
+.el-dropdown-link {
+    color: #fff !important;
+    margin-left: 15px;
+}
+
+.el-dropdown-menu {
+    background: #fff !important;
+    border: none !important;
+    color: #fff !important;
+}
+
+.el-dropdown-menu__item {
+    color: #A0A0A0 !important;
+}
+
+.el-dropdown-menu__item:hover {
+    background: #fff !important;
+    border-radius: 8px 8px;
+
+}
+
+.el-form-item__label {
+    text-align: left;
+}
+
+.dialog-footer {
+    text-align: left;
+}
+
+.el-form-item {
+    margin-bottom: 5px;
+}
+
+/* .el-dialog__body {
+    display: none;
+} */
+
+.el-dialog__wrapper {
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.09) 0%, rgba(0, 0, 0, 0.61) 100%);
+}
+
+.el-button {
+    margin-left: 20px !important;
+    margin-right: 70px !important;
+}
+
+.el-button:nth-child(2) {
+    margin-left: 60px !important;
+    margin-right: 60px !important;
+}
+
+.el-dropdown-menu {
+    z-index: 10;
+}
